@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="{{ meta.lang }}">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>{{ meta.title }}</title>
+		<meta name="description" content="{{ meta.description }}">
+		<meta name="keywords" content="{{ meta.keywords }}">
+		<meta name="author" content="{{ meta.author.name }}">
+
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="{{ meta.title }}">
+		<meta property="og:title" content="{{ meta.title }}">
+		<meta property="og:description" content="{{ meta.description }}">
+		<meta property="og:locale" content="{{ meta.locale }}">
+		<meta property="og:image" content="/img/logo.png" />
+
+		<link rel="icon" href="/img/logo.png" type="image/png" />
+
+		<link href='https://fonts.googleapis.com/css?family=Sansita+One' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=News+Cycle' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.8.12/base.min.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+        
+		<link rel="stylesheet" href="/css/styles.css?v={% version %}" />
+	</head>
+	<body>
+        <header class="header">
+            <h1 class="logo">
+                <a href="/" class="logo__link">
+                    <img src="/img/logo.png" alt="{{ meta.title }}" class="logo__img">
+                </a>
+            </h1>
+            {% include "nav.njk" %}
+        </header>
+		<main>
+            <div class="container">
+                {% block content %}
+                    {{ content | safe }}
+                {% endblock content %}
+                <footer class="footer">
+                    <p class="copyright"><em>{{ meta.description }} &copy;</em></p>
+                    <div class="social">
+                        <a href="{{ meta.social.facebook }}" target="_blank" rel="noopener noreferrer">
+                            <img src="/img/facebook-icon.png" alt="Facebook" width="48px">
+                        </a>
+                        <a href="{{ meta.social.instagram }}" target="_blank" rel="noopener noreferrer">
+                            <img src="/img/instagram-icon.png" alt="Instagram" width="48px">
+                        </a>
+                    </div>
+                </footer>
+            </div>
+        </main>
+        <div class="dev">
+            <a href="{{ meta.author.link }}" target="_blank" rel="noopener noreferrer">
+                <img src="/img/logohn.png" alt="{{ meta.author.name }}">
+            </a>
+        </div>
+
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+	</body>
+</html>

@@ -1,0 +1,37 @@
+{% extends "./base.njk" %}
+
+{% block content %}
+    <div class="grid">
+        <div class="slider">
+            {% for slide in slider %}
+            <div><img src="/img/{{ slide.image | safe }}" alt=""></div>
+            {% endfor %}
+        </div>
+
+        <div class="cta-box">
+            <img src="img/block-1-img.jpg" alt="">
+            <p>{{ callToAction.actionTitle | safe }}</p>
+            <a href="{{ callToAction.actionLink | url }}" class="btn">{{ callToAction.action | safe }}</a>
+        </div>
+
+        <div class="cta-box-2">
+            <p>{{ callToAction2.actionTitle | safe }}</p>
+            <a href="{{ callToAction2.actionLink | url }}" class="btn">{{ callToAction2.action | safe }}</a>
+        </div>
+
+        <div class="cta-box-3">
+            <img src="img/block-3-img.jpg" alt="">
+            <div class="cta-box-3__body">
+                <p class="cta-box-3__title">{{ callToAction3.actionTitle | safe }}</p>
+                <p class="cta-box-3__subtitle">{{ callToAction3.actionSubtitle | safe }}</p>
+                <a href="{{ callToAction3.actionLink | url }}" class="btn">{{ callToAction3.action | safe }}</a>
+            </div>
+        </div>
+
+        <div class="cta-box">
+            <img src="img/block-1-img.jpg" alt="">
+            <p>{{ callToAction4.actionTitle | safe }}</p>
+            <a href="{{ callToAction4.actionLink | url }}" class="btn">{{ callToAction4.action | safe }}</a>
+        </div>
+    </div>
+{% endblock %}

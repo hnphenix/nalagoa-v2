@@ -1,0 +1,15 @@
+{% extends "./base.njk" %}
+
+{% block content %}
+    <section class="info">
+        <h2 class="title">{{ title | safe }}</h2>
+
+        {{ content | safe }}
+    </section>
+    <br />
+    <div class="gallery">
+        {% for photo in gallery %}
+            <a data-fancybox="gallery" href="/img/{{ photo.photo | safe }}"><img src="/img/{{ photo.photo | safe }}" alt=""></a>
+		{% endfor %}
+    </div>
+{% endblock %}
