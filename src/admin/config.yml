@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master
+  branch: main
 
 media_folder: "src/img"
   
@@ -9,15 +9,6 @@ collections:
     label: "Páginas"
     folder: "src"
     create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Título", name: "title", widget: "string" }
-      - { label: "Corpo", name: "body", widget: "markdown" }
-  - name: "sugestão"
-    label: "Sugestão"
-    folder: "src/boxes"
-    create: true
-    slug: "{{slug}}"
     fields:
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Corpo", name: "body", widget: "markdown" }
