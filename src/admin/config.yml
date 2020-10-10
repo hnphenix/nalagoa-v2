@@ -12,3 +12,10 @@ collections:
     fields:
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Corpo", name: "body", widget: "markdown" }
+  - name: "paginas"
+    label: "Páginas"
+    folder: "src"
+    create: true
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Corpo", name: "body", widget: "markdown" }
