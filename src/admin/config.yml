@@ -3,3 +3,15 @@ backend:
   branch: main
 
 media_folder: "src/img"
+  
+collections:
+  - name: "sugestão"
+    label: "Sugestão"
+    folder: "src/boxes"
+    create: true
+    layout: "menu.njk"
+    tags: "boxes"
+    permalink: "sugestao.html"
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Corpo", name: "body", widget: "markdown" }
