@@ -1,8 +1,5 @@
 ---
-layout: menu.njk
 title: Cardápio - 01/10 à 14/10
-tags: "boxes"
-permalink: "sugestao.html"
 ---
 
 **Sugestão Especial**
