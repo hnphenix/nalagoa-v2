@@ -3,12 +3,3 @@ backend:
   branch: main
 
 media_folder: "src/img"
-  
-collections:
-  - name: "sugestão"
-    label: "Sugestão"
-    folder: "src/boxes"
-    create: true
-    fields:
-      - { label: "Título", name: "title", widget: "string" }
-      - { label: "Corpo", name: "body", widget: "markdown" }
