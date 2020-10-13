@@ -3,6 +3,10 @@ backend:
   branch: main
 
 media_folder: "src/img"
+
+display_url: https://nalagoa.netlify.app/
+
+logo_url: https://nalagoa.netlify.app/img/logo.png
   
 collections:
   - name: "paginas"
