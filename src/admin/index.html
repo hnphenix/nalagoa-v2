@@ -17,6 +17,9 @@
             });
           }
         });
+        window.netlifyIdentity.on("logout", () => {
+          document.location.href = "/";
+        });
       }
     </script>
   </body>
