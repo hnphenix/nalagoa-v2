@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background: #f8fbee url('../img/header-bg.jpg') fixed top center repeat-x;
     font: 16px/24px "Trebuchet MS", sans-serif;
@@ -169,6 +173,16 @@ footer {
 .cta-box img {
     margin-right: 16px;
 }
+.cta-box-info {
+    background: url('../img/header-bg.jpg') repeat-x;
+    min-height: 91px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font: 400 16px/16px 'Sansita One', cursive;
+    color: #fff;
+}
 
 .cta-box-2 {
     background: #333333;
@@ -234,7 +248,7 @@ footer {
 
 .btn-2 {
     background: #2e5886;
-    color: #fff;
+    color: #fff !important;
     border-radius: 24px;
     padding: 16px;
     font: bold 20px "Trebuchet MS", sans-serif;
@@ -243,6 +257,7 @@ footer {
 }
 .btn-2:hover {
     background: #6a6a6a;
+    text-decoration: none !important;
 }
 
 .slider {
@@ -267,6 +282,10 @@ footer {
 .grid {
     display: grid;
     grid-gap: 16px;
+}
+
+.top-btn {
+    display: none;
 }
 
 iframe {
@@ -333,6 +352,10 @@ iframe {
         font: 400 30px/36px 'Sansita One', cursive;
     }
 
+    .cta-box-info {
+        font: 400 28px/36px 'Sansita One', cursive;
+    }
+
     .cta-box-3 {
         height: 285px;
         align-items: center;
@@ -370,6 +393,24 @@ iframe {
     .slider div {
         width: 213px;
     }
+
+    .top-btn {
+        width: 71px;
+        height: 71px;
+        border-radius: 71px;
+        background: rgba(201,203,193,0.65);
+        font: 400 30px/36px 'Sansita One', cursive;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: fixed;
+        bottom: 16px;
+        right: 16px;
+    }
+    .top-btn:hover {
+        color: #F8B707;
+    }
 }
 
 /* Large (lg) */
@@ -395,6 +436,12 @@ iframe {
         grid-column: 1 / 4;
     }
 
+    .cta-box-info {
+        grid-column: 1 / 4;
+        padding: 16px;
+        text-align: left;
+    }
+
     .cta-box-2 {
         grid-column: 3 / 4;
     }
@@ -409,7 +456,7 @@ iframe {
 
     .grid {
         grid-auto-flow: dense;
-        grid-template-rows: auto auto auto auto;
+        grid-auto-rows: auto;
         grid-template-columns: 1fr 1fr 1fr;
     }
 }

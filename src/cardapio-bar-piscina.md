@@ -1,7 +1,5 @@
 ---
-layout: menu-special.njk
 title: Cardápios
-permalink: "cardapio-bar-piscina.html"
 ---
 
 {% button "cardapio-bar-da-piscina" %} Cardápio Bar da Piscina {% endbutton %}

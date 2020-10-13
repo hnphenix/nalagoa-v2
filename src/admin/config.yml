@@ -5,17 +5,24 @@ backend:
 media_folder: "src/img"
   
 collections:
-  - name: "sugestão"
-    label: "Sugestão"
-    folder: "src/boxes"
-    create: true
-    fields:
-      - { label: "Título", name: "title", widget: "string" }
-      - { label: "Corpo", name: "body", widget: "markdown" }
   - name: "paginas"
     label: "Páginas"
-    folder: "src"
-    create: true
-    fields:
-      - { label: "Título", name: "title", widget: "string" }
-      - { label: "Corpo", name: "body", widget: "markdown" }
+    files:
+      - label: "Sugestão"
+        name: "sugestão"
+        file: "src/boxes/sugestao.md"
+        fields:
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Corpo", name: "body", widget: "markdown" }
+      - label: "Cardápio"
+        name: "cardapio"
+        file: "src/cardapio.md"
+        fields:
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Corpo", name: "body", widget: "markdown" }
+      - label: "Cardápio Bar da Piscina"
+        name: "cardapio-bar-piscina"
+        file: "src/cardapio-bar-piscina.md"
+        fields:
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Corpo", name: "body", widget: "markdown" }
