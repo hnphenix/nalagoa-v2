@@ -10,7 +10,6 @@ body {
 header {
     display: flex;
     flex-direction: column;
-    /* align-items: center; */
     padding: 16px 16px 0;
 }
 
@@ -30,7 +29,6 @@ header {
     color: #00448D;
     padding: 8px;
     text-shadow: rgba(0,0,0,0.3) 1px 1px 1px;
-    /* font-size: 20px; */
     display: block;
     text-align: center;
     font: 20px 'News Cycle', sans-serif;
@@ -75,6 +73,7 @@ main {
 .info {
     /* font: 16px/24px "Trebuchet MS", sans-serif; */
     color: #4e4e4e;
+    overflow: hidden;
 }
 
 .box {
@@ -160,7 +159,6 @@ footer {
     align-items: center;
     font: 400 16px/16px 'Sansita One', cursive;
     color: #fff;
-    /* margin: 8px 0; */
 }
 .cta-box .btn {
     margin-left: auto;
@@ -193,7 +191,6 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* margin: 8px 0; */
 }
 .cta-box-2 .btn {
     color: #333333;
@@ -207,7 +204,6 @@ footer {
     justify-content: space-between;
     align-items: flex-start;
     flex-direction: column-reverse;
-    /* margin: 8px 0; */
 }
 
 .cta-box-3 .btn {
@@ -253,7 +249,8 @@ footer {
     padding: 16px;
     font: bold 20px "Trebuchet MS", sans-serif;
     text-align: center;
-    display: inline-block;
+    display: block;
+    margin: 8px 0;
 }
 .btn-2:hover {
     background: #6a6a6a;
@@ -410,6 +407,10 @@ iframe {
     }
     .top-btn:hover {
         color: #F8B707;
+    }
+    .btn-2 {
+        display: inline-block;
+        margin: 0;
     }
 }
 
