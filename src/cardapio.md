@@ -14,6 +14,8 @@ Cesta de pães, patê do dia e manteiga de ervas - R$ 16,00
 * Bolinho de bacalhau - R$ 39,00
 * Pastel de camarão (04 und) - R$ 16,00
 * Pastel de carne (04 und) - R$ 16,00 / Pastel de queijo (04 und) - R$ 16,00
+* Tartar de salmão com torradas de focaccia - R$ 39,00
+* Carpaccio semi grelhado com rúcula, muçarela búfala e molho de mostarda - R$ 33,00
 
 **SOPAS**
 
