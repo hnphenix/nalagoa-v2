@@ -1,23 +1,26 @@
 ---
-title: Cardápio - 15/10 à 28/10
+title: Cardápio - 29/10 à 11/11
 ---
 **Sugestão Especial**
 
-* Bacalhau ao Murray - R$ 68,00
+* Cassoulet de frutos do mar com arroz de tomilho - R$ 65,00
 
 **Sugestões do Chef**
 
-* Tornedor au poivre com gratin de batata - R$ 68,00
-* Picanha suína defumada ao m° do chef com salada de batata alemã e repolho roxo - R$ 49,00
+* Salmão com bifum thay (com pimentões coloridos, amendoim, cenoura e cebola roxa) - R$ 52,00
+* Bobó de camarão com arroz branco e farofa de dendê - R$ 36,00
+* Tornedor de mignon ao bernaise com batata rústica - R$ 65,00
+
+
 
 **Executiva**
 
-* Galeto com molho à campanha, arroz à grega e farofa de alho - R$ 32,00
+* Penne com ragu de costela e tomatinhos assados - R$ 30,00
 
 **Vegetariana**
 
-* Moqueca de pupunha, farofa de dendê e arroz de coco - R$ 32,00
+* Salada de grãos com tofu defumado e vinagrete de coentro - R$ 34,00
 
 **Sobremesa**
 
-* Banana frita com sorvete de castanha e calda de chocolate meio amargo - R$ 19,00
+* Torta tricolor de chocolate com coulis de menta - R$ 19,00
