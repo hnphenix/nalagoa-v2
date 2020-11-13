@@ -1,9 +1,9 @@
 ---
 title: Cardápios
 ---
-{% button "cardapio-bar-da-piscina" %} Cardápio Bar da Piscina {% endbutton %}
-{% button "cardapio-quiosque" %} Cardápio Quiosque {% endbutton %}
-{% button "carta-de-vinhos" %} Carta de Vinhos {% endbutton %}
+1. {% button "cardapio-bar-da-piscina" %} Cardápio Bar da Piscina {% endbutton %}
+   {% button "cardapio-quiosque" %} Cardápio Quiosque {% endbutton %}
+   {% button "carta-de-vinhos" %} Carta de Vinhos {% endbutton %}
 
 {% headingId "cardapio-bar-da-piscina" %} Cardápio Bar da Piscina {% endheadingId %}
 
@@ -113,14 +113,14 @@ title: Cardápios
 * CAPUCCINO - R$ 4,80
 * CHOCOLATE QUENTE - R$ 4,50
 
-{% headingId "cardapio-quiosque" %} Cardápio Quiosque {% endheadingId %}
-
-**PETISCOS**
+**PARA COMEÇAR...**
 
 * PORÇÃO DE BATATA FRITA - R$ 20,00
-* BOLINHA DE QUEIJO R$ 24,00
+* PORÇÃO DE QUEIJO MINAS C/OREGANO R$ 15,00
 * BOLINHO DE BACALHAU R$ 39,00
 * CROQUETE DE CARNE ALEMÃO R$ 37,00
+* PORÇÃO DE SALAMINHO R$ 16,00
+* PORÇÃO AZAPA TEMPERADA (150 gr)  R$ 17,00
 * PASTEL (4 UND):
 
   * CAMARÃO - R$ 16,00
@@ -128,17 +128,19 @@ title: Cardápios
 
 **ESPECIAIS QUIOSQUE**
 
-* PÇ SALAMINHO C/ AZEITONA R$ 16,00
-* LINGUIÇA ACEBOLADA R$ 12,00 /COM FRITAS R$ 18,00
-* AIPIM C/ CARNE SECA - R$ 34,00
-* AIPIM C/ PARMESÃO - R$ 24,00
-* GURJÃO DE PEIXE - R$ 35,00
+*  BATATA FRITA COM CHEDDAR E BACON OU CEBOLA CARAMELADA R$ 26,00
+* LINGUIÇA ATESANAL ACEBOLADA COM FRITAS R$ 34,00
+* CARNE SECA ACEBOLADA COM AIPIM E QUEIJO COALHO - R$ 39,00
+* CARNE DE SOL ACEBOLADO COM AIPIM E QUEIJO COALHO  - R$ 37,00
+* CAMARÃO EMPANADO COM MOLHO TÁRTARO OU ROSÉ R$ 42,00
+* GURJÃO DE PEIXE COM MOLHO TÁRTARO OU ROSÉ - R$ 35,00
 * FRANGO A PASSARINHO - R$ 19,00
 * FILET APERITIVO COM CESTA DE PÃES - R$ 39,00
-* FILET DE FRANGO GRELHADO COM FRITAS - R$ 33,00
+* ISCAS DE FRANGO CROCANTES  COM MOLHO TÁRTARO OU ROSÉ - R$ 22,00
+* TABUA ESPECIAL DE FRIOS E QUEIJOS  (serve 4 pessoas)  R$ 84,00
+
+  (brie, gorgonzola, Parma, salame italiano, azeitona azapa, grissinis e cesta de pães)                
 * PICANHA FATIADA COM FRITAS, FAROFA E MOLHO À CAMPANHA - R$ 68,00
-
-
 
 **ESPETINHOS (Acompanha farofa e molho à campanha)**
 
@@ -162,6 +164,8 @@ title: Cardápios
 * MISTO LIGHT - R$ 12,00
 * HAMBURGUER - R$ 8,50
 * FILET MIGNON - R$ 25,00
+* SALAME ITALIANO R$ 16,00
+* LINGUIÇA ARTESANAL R$ 17,00
 * FILET DE FRANGO - R$ 18,50
 * BAURU DE MIGNON - R$ 30,00
 
