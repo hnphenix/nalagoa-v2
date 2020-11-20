@@ -110,13 +110,13 @@ Cesta de pães, patê do dia e manteiga de ervas - R$ 16,00
 * Água c/ gás (330ml) - R$ 4,50
 * Água s gás (330ml) - R$ 4,50
 * Água de coco (Coco Legal) - R$ 7,50
-* Mate Leão - R$ 6,80
-* Refrigerante (lata) - R$ 6,80
+* Mate Leão - R$ 7,00
+* Refrigerante (lata) - R$ 7,00
 * Suco de laranja - R$ 8,50
-* Suco Green People - R$ 8,50
-* Suco Green People especial - R$ 9,50
+* Suco de frutas - R$ 8,50
+* Suco de uva - R$ 9,50
 * Cerveja Antarctica Original 600 ml - R$ 13,50
-* Cerveja Therezópolis Gold 600 ml - R$ 21,00
+* Cerveja Therezópolis Gold 500 ml - R$ 19,00
 * Cerveja Heineken 600ml - R$ 16,00
 * Cerveja Bohemia long neck (355ml) - R$ 8,50
 * Cerveja Malzbier long neck (355ml) - R$ 7,00
