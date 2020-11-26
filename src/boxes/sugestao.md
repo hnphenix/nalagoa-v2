@@ -3,22 +3,22 @@ title: Cardápio - 12 à 25/11
 ---
 **Sugestão Especial**
 
-* Bacalhau crocante com baroa e crispy de cebola - R$ 64,00
+* Escalopinho de mignon ao molho gorgonzola, batata noisette e tomatinho concassé - R$ 67,00
 
 **Sugestões do Chef**
 
-* Camarão ao catupiry com arroz de abacaxi e palha de baroa - R$ 52,00
-* Tornedor ao mº mostarda com risoto de alho-poró e cebolinha caramelada - R$ 64,00
-* Filé de sobrecoxa gratinado com cebola e parmesão, espaguete com brócolis e tomatinhos assados - R$ 38,00
+* Coxa de pato confit ao m olho de amoras com risoto de aspargos - R$ 62,00
+* Filé de dourado envolto de Parma na manteiga de sálvia com purê de banana da terra - R$ 59,00
+* Fettuccini com camarão, fios de abobrinha e limão siciliano - R$ 40,00
 
 **Executiva**
 
-* Iscas de fígado aceboladas com cubinhos de batata frita e arroz - R$ 22,00
+* Frango xadrez com arroz colorido - R$ 32,00
 
 **Vegetariana**
 
-* Feijoada vegetariana (legumes, tofu defumado, carne de soja), farofa, arroz integral e couve - R$ 24,00
+*  Berinjela à Parmegiana com purê de grão de bico - R$ 32,00
 
 **Sobremesa**
 
-* Bolo trufado de chocolate com sorvete de creme e ganache de chocolate meio amargo - R$ 22,00
+* Sorvete de tapioca com coco e goiabada morna - R$ 22,00
