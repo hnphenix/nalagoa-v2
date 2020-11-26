@@ -1,5 +1,5 @@
 ---
-title: Cardápio - 12 à 25/11
+title: Cardápio - 26 à 09/12
 ---
 **Sugestão Especial**
 
