@@ -3,7 +3,7 @@ title: Cardápio - 26 à 09/12
 ---
 **Sugestão Especial**
 
-* Escalopinho de mignon ao molho gorgonzola, batata noisette e tomatinho concassé - R$ 67,00
+* Escalopinho de mignon ao molho gorgonzola, batata noisette e tomatinho confit- R$ 67,00
 
 **Sugestões do Chef**
 
@@ -17,7 +17,7 @@ title: Cardápio - 26 à 09/12
 
 **Vegetariana**
 
-*  Berinjela à Parmegiana com purê de grão de bico - R$ 32,00
+* Berinjela à Parmegiana com purê de grão de bico - R$ 32,00
 
 **Sobremesa**
 
