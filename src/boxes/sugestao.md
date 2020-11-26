@@ -7,7 +7,7 @@ title: Cardápio - 26 à 09/12
 
 **Sugestões do Chef**
 
-* Coxa de pato confit ao m olho de amoras com risoto de aspargos - R$ 62,00
+* Coxa de pato confit ao molho de amoras com risoto de aspargos - R$ 62,00
 * Filé de dourado envolto de Parma na manteiga de sálvia com purê de banana da terra - R$ 59,00
 * Fettuccini com camarão, fios de abobrinha e limão siciliano - R$ 40,00
 
