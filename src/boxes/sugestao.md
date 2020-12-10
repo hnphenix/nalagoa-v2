@@ -3,22 +3,22 @@ title: Cardápio - 26 à 09/12
 ---
 **Sugestão Especial**
 
-* Escalopinho de mignon ao molho gorgonzola, batata noisette e tomatinho confit- R$ 67,00
+* Saltimboca de mignon com paglio e fieno- R$ 60,00
 
 **Sugestões do Chef**
 
-* Coxa de pato confit ao molho de amoras com risoto de aspargos - R$ 62,00
-* Filé de dourado envolto de Parma na manteiga de sálvia com purê de banana da terra - R$ 59,00
-* Fettuccini com camarão, fios de abobrinha e limão siciliano - R$ 40,00
+* Linguado ao mº de tangerina e couscous marroquino com legumes e castanhas - R$ 58,00
+* Carne de sol acebolada com baião de dois e queijo coalho - R$ 43,00
+* Risoto de rúcula com salmão e tomatinhos assados - R$ 38,00
 
 **Executiva**
 
-* Frango xadrez com arroz colorido - R$ 32,00
+* Costelinha suína com barbecue e batata recheada com cream cheese e bacon - R$ 34,00
 
 **Vegetariana**
 
-* Berinjela à Parmegiana com purê de grão de bico - R$ 32,00
+* Polenta cremosa com ragout de cogumelos - R$ 32,00
 
 **Sobremesa**
 
-* Sorvete de tapioca com coco e goiabada morna - R$ 22,00
+* Crumble de maçã com sorvete de castanha - R$ 22,00
