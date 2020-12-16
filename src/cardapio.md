@@ -66,14 +66,7 @@ Cesta de pães, patê do dia e manteiga de ervas - R$ 16,00
 * Bifinho de filet mignon com arroz, feijão, batatinha sorriso e ovo mexido - R$ 34,00
 * Espaguete com carninha moída (com ou sem molho de tomate) - R$ 27,00
 
-**SOBREMESAS**
 
-* Sorvete simples - R$ 8,00
-* Torta morna de chocolate com sorvete de creme - R$ 21,50
-* Banana dourada com sorvete de creme - R$ 15,00
-* Creme de papaia com cassis - R$ 16,00
-* Petit Gateau de chocolate com sorvete de creme - R$ 20,00
-* Frutas da estação - R$ 13,80
 
 **PIZZAS (APÓS ÀS 17H)**
 
