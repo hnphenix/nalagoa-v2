@@ -1,6 +1,12 @@
 ---
 title: Cardápio - 10 de dezembro/20 a 06 de janeiro/21
 ---
+
+
+**Sugestão de Gnocchi**
+
+* Gnocchi  de batata ao molho de abóbora com carne seca desfiada - R$ 42,00
+
 **Sugestão de Natal**
 
 * Tender fatiado ao molho de maracujá c/ farofa(panko) de castanhas e figo ao balsamico - R$ 48,00
