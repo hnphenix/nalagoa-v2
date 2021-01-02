@@ -1,10 +1,6 @@
 ---
 title: Cardápio - 10 de dezembro/20 a 06 de janeiro/21
 ---
-**Sugestão de Natal**
-
-* Tender fatiado ao molho de maracujá c/ farofa(panko) de castanhas e figo ao balsamico - R$ 48,00
-
 **Sugestão Especial** 
 
 * Saltimboca de mignon com paglio e fieno- R$ 60,00
