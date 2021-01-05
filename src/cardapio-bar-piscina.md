@@ -21,7 +21,11 @@ title: Cardápios
 **ESPECIAIS PISCINA**
 
 * FILET APERITIVO COM CESTA DE PÃES - R$ 39,00
+
+  TAPIOCA COM MUÇARELA E TOMATE- R$ 16,00
 * FILET DE FRANGO GRELHADO COM FRITAS - R$ 33,00
+
+  OMELETE DE MINAS COM TOMATE COM SALADINHA- R$ 30,00
 * PICANHA FATIADA COM FRITAS, FAROFA E MOLHO À CAMPANHA - R$ 68,00
 
 **PRATO KIDS (SERVIÇO EMPRATADO)**
@@ -114,11 +118,7 @@ title: Cardápios
 * CAPUCCINO - R$ 4,80
 * CHOCOLATE QUENTE - R$ 4,50
 
-
-
 **CARDÁPIO QUIOSQUE**
-
-
 
 **PARA COMEÇAR...**
 
@@ -149,8 +149,6 @@ title: Cardápios
 * TABUA ESPECIAL DE FRIOS E QUEIJOS  (serve 4 pessoas)  R$ 84,00
 
   (brie, gorgonzola, Parma, salame italiano, azeitona azapa, grissinis e cesta de pães)              
-
-
 
 **SANDUÍCHES**
 
@@ -213,8 +211,6 @@ title: Cardápios
 * CAIPIRINHA - R$ 13,50 / SALINAS OU NEGA FULÔ – R$ 14,50
 * CAIPIVODKA - R$ 19,00 / ABSOLUT - R$ 23,00
 * GIN TÔNICA IMPORTADA - R$ 29,00
-
-
 
 {% headingId "carta-de-vinhos" %} Carta de Vinhos {% endheadingId %}
 
