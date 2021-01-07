@@ -1,5 +1,5 @@
 ---
-title: Cardápio - 10 de dezembro/20 a 06 de janeiro/21
+title: Cardápio - 07 a 20 de janeiro de 2021
 ---
 **Sugestão Especial** 
 
