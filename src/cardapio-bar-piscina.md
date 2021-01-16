@@ -94,10 +94,12 @@ title: Cardápios
 * CERVEJA THEREZOPOLIS - R$ 19,00
 * CERVEJA ANTARCTICA ORIGINAL 600 ML - R$ 13,50
 * CERVEJA ESTRELLA GALÍCIA 600ML - R$ 13,00
+* CERVEJA BRAHMA DUPLO MALTE 600ML - R$ 15,50
 * CERVEJA HEINEKEN 600 ML - R$ 16,00
 * CERVEJA BOHEMIA LONG NECK (355ML) - R$ 8,50
 * CERVEJA MALZBIER LONG NECK (355ML) - R$ 7,00
 * CERVEJA HEINEKEN LONG NECK (355ML) - R$ 10,00
+* CERVEJA BECKS LONG NECK (330ML) - R$ 11,00
 * CHOPP - R$ 9,00
 
 **DRINKS**
@@ -195,10 +197,12 @@ title: Cardápios
 * CERVEJA THEREZOPOLIS - R$ 19,00
 * CERVEJA ANTARCTICA ORIGINAL 600 ML - R$ 13,50
 * CERVEJA ESTRELLA GALÍCIA 600ML - R$ 13,00
+* CERVEJA BRAHMA DUPLO MALTE 600ML - R$ 15,50
 * CERVEJA HEINEKEN 600 ML - R$ 16,00
 * CERVEJA BOHEMIA LONG NECK (355ML) - R$ 8,50
 * CERVEJA MALZBIER LONG NECK (355ML) - R$ 7,00
 * CERVEJA HEINEKEN LONG NECK (355ML) - R$ 10,00
+* CERVEJA BECKS LONG NECK (330ML) - R$ 11,00
 * CHOPP - R$ 9,00
 
 **DRINKS**
@@ -242,9 +246,11 @@ title: Cardápios
 
 *Portugal*
 
+* Guigas Branco - Quinta da Lixa (Região: Vinho verde) - R$ 76,00
 * Ares de Medeiros - R$ 85,00
 * Lagares de Penalva - R$ 94,00
 * Quinta da Aveleda - R$ 105,00
+* Morgado da Vila - Quinta da Lixa (Alvarinho, Loureiro e Trajadura) - R$ 114,00
 * Monte São Sebastião - R$ 162,00
 
 **VINHO ROSÉ**
@@ -255,6 +261,7 @@ title: Cardápios
 
 *Portugal*
 
+* Guigas Rosé - Quinta da Lixa (Região: Vinho verde) - R$ 76,00
 * Ares de Medeiros - R$ 92,00
 * Periquita - R$ 104,00
 
