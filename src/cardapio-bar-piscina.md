@@ -147,10 +147,7 @@ title: Cardápios
 * POLVO AO VINAGRETE COM CESTA DE PÃES R$ 49,00
 * BATATA FRITA COM CHEDDAR E BACON OU CEBOLA CARAMELADA R$ 26,00
 * FILET APERITIVO COM CESTA DE PÃES - R$ 39,00
-* PICANHA FATIADA COM FRITAS, FAROFA E MOLHO À CAMPANHA - R$ 68,00
-* TABUA ESPECIAL DE FRIOS E QUEIJOS  (serve 4 pessoas)  R$ 84,00
-
-  (brie, gorgonzola, Parma, salame italiano, azeitona azapa, grissinis e cesta de pães)              
+* PICANHA FATIADA COM FRITAS, FAROFA E MOLHO À CAMPANHA - R$ 68,00      
 
 **SANDUÍCHES**
 
