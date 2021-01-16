@@ -66,8 +66,6 @@ Cesta de pães, patê do dia e manteiga de ervas - R$ 16,00
 * Bifinho de filet mignon com arroz, feijão, batatinha sorriso e ovo mexido - R$ 34,00
 * Espaguete com carninha moída (com ou sem molho de tomate) - R$ 27,00
 
-
-
 **PIZZAS (APÓS ÀS 17H)**
 
 * Pizza Branca com sal grosso e alecrim- R$ 18,00
@@ -110,11 +108,13 @@ Cesta de pães, patê do dia e manteiga de ervas - R$ 16,00
 * Suco de uva - R$ 9,50
 * Cerveja Antarctica Original 600 ml - R$ 13,50
 * Cerveja Therezópolis Gold 500 ml - R$ 19,00
+* Cerveja Brahma Duplo Malte 600 ml - R$ 15,50
 * Cerveja Heineken 600ml - R$ 16,00
 * Cerveja Bohemia long neck (355ml) - R$ 8,50
 * Cerveja Malzbier long neck (355ml) - R$ 7,00
 * Cerveja Stella Artois long neck (275ml) - R$ 8,50
 * Cerveja Heineken long neck (355ml) - R$ 10,00
+* Cerveja Becks long neck (330ml) - R$ 11,00
 * Chopp - R$ 9,00
 
 **DRINKS**
@@ -170,19 +170,20 @@ Cesta de pães, patê do dia e manteiga de ervas - R$ 16,00
 
 *Portugal*
 
+* Guigas Branco - Quinta da Lixa (Região: Vinho verde) - R$ 76,00
 * Ares de Medeiros - R$ 85,00
 * Lagares de Penalva - R$ 94,00
 * Quinta da Aveleda - R$ 105,00
-* Monte São Sebastião - R$ 175,00
+* Morgado da Vila - Quinta da Lixa (Alvarinho, Loureiro e Trajadura) - R$ 114,00
+* Monte São Sebastião - R$ 162,00
 
-**VINHO ROSÉ**
+  **VINHO ROSÉ**
 
-*Chile*
-
+  *Chile*
 * Carmen Aperitif Rosé - R$ 118,00
 
-*Portugal*
-
+  *Portugal*
+* Guigas Rosé - Quinta da Lixa (Região: Vinho verde) - R$ 76,00
 * Ares de Medeiros - R$ 92,00
 * Periquita - R$ 104,00
 
