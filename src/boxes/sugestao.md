@@ -10,8 +10,7 @@ title: Cardápio - 22 de janeiro a 03 de fevereiro de 2021
 * Mignon (300g) recheado de patê ao mº de vinho tinto com cebolas confit e risoto de açafrão - R$ 60,00
 
   **Sugestão de verão**
-
-  Leito de verdes com duo de lentilhas, alho poró, cebola roxa e tomatinho grape com azeite aromatizado - R$ 26,00
+* Leito de verdes com duo de lentilhas, alho poró, cebola roxa e tomatinho grape com azeite aromatizado - R$ 26,00
 
 **Executiva**
 
