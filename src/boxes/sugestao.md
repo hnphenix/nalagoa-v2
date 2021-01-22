@@ -1,23 +1,26 @@
 ---
-title: Cardápio - 07 a 20 de janeiro de 2021
+title: Cardápio - 22 de janeiro a 03 de fevereiro de 2021
 ---
 **Sugestão Especial** 
 
-* Cassoulet de frutos do mar com arroz de tomilho - R$ 65,00
+* Espetada crocante de camarão (vmg) com muçarela de búfala e espaguete de pupunha ao pesto - R$ 62,00
 
 **Sugestões do Chef**
 
-* Filé mignon ao mº de gorgonzola com nozes crocantes e rostie de baroa - R$ 64,00
-* Penne com kani e camarão ao azeite de alecrim - R$ 38,00
+* Mignon (300g) recheado de patê ao mº de vinho tinto com cebolas confit e risoto de açafrão - R$ 60,00
+
+  **Sugestão de verão**
+
+  Leito de verdes com duo de lentilhas, alho poró, cebola roxa e tomatinho grape com azeite aromatizado - R$ 26,00
 
 **Executiva**
 
-* Galeto assado com mº campanha, batata rústica e salada - R$ 32,00
+* Frango Oriental (cubos de frango ao mº de amendoim com arroz integral, manga, pimenta biquinho e ceboulette - R$ 32,00
 
 **Vegetariana**
 
-* Hamburguer de grão-de-bico com cogumelos salteados, mº tahine no pão de beterraba (acompanha salada) - R$ 30,00
+* Escondidinho de carne de soja com aipim, cogumelos e tomates frescos - R$ 26,00
 
 **Sobremesa**
 
-* Mini rabanada com sorvete de creme - R$ 22,00
+* Banana frita polvilhada com canela e açúcar, acompanhada de sorvete de castanha do Pará - R$ 19,00
