@@ -108,13 +108,14 @@ Cesta de pães, patê do dia e manteiga de ervas - R$ 16,00
 * Suco de uva - R$ 9,50
 * Cerveja Antarctica Original 600 ml - R$ 13,50
 * Cerveja Therezópolis Gold 500 ml - R$ 19,00
-* Cerveja Brahma Duplo Malte 600 ml - R$ 15,50
+* Cerveja Amstel 600 ml - R$ 13,50
+* Cerveja Brahma Duplo Malte 600 ml - R$ 13,00
 * Cerveja Heineken 600ml - R$ 16,00
 * Cerveja Bohemia long neck (355ml) - R$ 8,50
 * Cerveja Malzbier long neck (355ml) - R$ 7,00
 * Cerveja Stella Artois long neck (275ml) - R$ 8,50
 * Cerveja Heineken long neck (355ml) - R$ 10,00
-* Cerveja Becks long neck (330ml) - R$ 11,00
+* Cerveja Becks long neck (330ml) - R$ 10,00
 * Chopp - R$ 9,00
 
 **DRINKS**
