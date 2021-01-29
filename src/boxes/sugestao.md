@@ -3,7 +3,7 @@ title: Cardápio - 22 de janeiro a 03 de fevereiro de 2021
 ---
 **Sugestão do dia**
 
-Gnocchi de baroa com ragu de costelinha - R$ 42,00
+* Gnocchi de baroa com ragu de costelinha - R$ 42,00
 
 **Sugestão Especial** 
 
@@ -13,7 +13,8 @@ Gnocchi de baroa com ragu de costelinha - R$ 42,00
 
 * Mignon (300g) recheado de patê ao mº de vinho tinto com cebolas confit e risoto de açafrão - R$ 60,00
 
-  **Sugestão de verão**
+**Sugestão de verão**
+
 * Leito de verdes com duo de lentilhas, alho poró, cebola roxa e tomatinho grape com azeite aromatizado - R$ 26,00
 
 **Executiva**
