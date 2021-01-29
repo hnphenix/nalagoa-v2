@@ -250,7 +250,7 @@ title: Cardápios
 * Lagares de Penalva - R$ 94,00
 * Quinta da Aveleda - R$ 105,00
 * Morgado da Vila - Quinta da Lixa (Alvarinho, Loureiro e Trajadura) - R$ 114,00
-* Monte São Sebastião - R$ 162,00
+* Monte São Sebastião - R$ 175,00
 
 **VINHO ROSÉ**
 
@@ -297,7 +297,7 @@ title: Cardápios
 
 * Ares de Medeiros - R$ 92,00
 * Periquita Reserva - R$ 115,00
-* Monte São Sebastião - R$ 162,00
+* Monte São Sebastião - R$ 175,00
 
 **TAMANHOS ESPECIAS**
 
