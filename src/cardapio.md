@@ -176,7 +176,7 @@ Cesta de pães, patê do dia e manteiga de ervas - R$ 16,00
 * Lagares de Penalva - R$ 94,00
 * Quinta da Aveleda - R$ 105,00
 * Morgado da Vila - Quinta da Lixa (Alvarinho, Loureiro e Trajadura) - R$ 114,00
-* Monte São Sebastião - R$ 162,00
+* Monte São Sebastião - R$ 175,00
 
   **VINHO ROSÉ**
 
