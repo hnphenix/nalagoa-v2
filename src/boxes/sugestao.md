@@ -1,10 +1,6 @@
 ---
 title: Cardápio - 22 de janeiro a 03 de fevereiro de 2021
 ---
-**Sugestão do dia**
-
-* Gnocchi de baroa com ragu de costelinha - R$ 42,00
-
 **Sugestão Especial** 
 
 * Espetada crocante de camarão (vmg) com muçarela de búfala e espaguete de pupunha ao pesto - R$ 62,00
