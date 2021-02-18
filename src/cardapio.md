@@ -208,6 +208,7 @@ Cesta de pães, patê do dia e manteiga de ervas - R$ 16,00
 *Africa do Sul*
 
 * Obikwa Pinotage - R$ 97,00
+* African Heritage Pinotage - R$ 92,00
 
 *França*
 
