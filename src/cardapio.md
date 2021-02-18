@@ -81,6 +81,7 @@ Cesta de pães, patê do dia e manteiga de ervas - R$ 16,00
 * Pudim- R$ 10,60
 * Torta Alemã (fatia)- R$ 14,00
 * Torta morna de chocolate com sorvete de creme - R$ 21,00
+* Goiabada cascão cremosa com sorvete de queijo e calda morna de goiabada - R$ 24,00
 * Brownie com sorvete de creme - R$ 19,00
 * Banana dourada com sorvete de creme - R$ 16,00
 * Creme de papaia com cassis - R$ 16,00
