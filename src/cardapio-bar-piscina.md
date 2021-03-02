@@ -25,7 +25,7 @@ title: Cardápios
   TAPIOCA COM QUEIJO COALHO E TOMATE- R$ 15,00 *(exceto final de semana e feriado)*
 * FILET DE FRANGO GRELHADO COM FRITAS - R$ 33,00
 
-  OMELETE DE MINAS E TOMATE COM SALADINHA- R$ 30,00  *(exceto final de semana e feriado)*
+  OMELETE DE MINAS E TOMATE COM SALADINHA- R$26,00  *(exceto final de semana e feriado)*
 * PICANHA FATIADA COM FRITAS, FAROFA E MOLHO À CAMPANHA - R$ 68,00
 
 **PRATO KIDS (SERVIÇO EMPRATADO)**
