@@ -24,9 +24,9 @@ Cesta de pães, patê do dia e manteiga de ervas - R$ 16,00
 
 **SALADAS**
 
-* Caesar salad com tiras de frango - R$ 29,50
-* Caesar salad com camarão - R$ 39,00
-* Omelete Marguerita com salada verde - R$ 36,50
+* Caesar salad com tiras de frango - R$ 25,00
+* Caesar salad com camarão - R$ 36,00
+* Omelete Marguerita com salada verde - R$ 26,00
 
 **CARNE**
 
