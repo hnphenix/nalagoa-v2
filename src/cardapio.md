@@ -39,7 +39,7 @@ Cesta de pães, patê do dia e manteiga de ervas - R$ 16,00
 **AVES**
 
 * Filet de frango empanado no parmesão com creme de milho e arroz de brócolis - R$ 34,00
-* Filet de frango gratinado com catupiry, banana frita e batata frita - R$ 38,50
+* Filet de frango gratinado com catupiry, banana frita e batata frita - R$ 38,00
 * Frango à milanesa recheado com Parma e brie ao molho de amoras com purê de batata baroa - R$ 43,00
 
 **PEIXES**
