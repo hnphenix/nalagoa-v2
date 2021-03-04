@@ -3,21 +3,24 @@ title: 18 de fevereiro a 03 de março de 2021
 ---
 **Sugestão Especial** 
 
-* Arroz de pato a moda portuguesa - R$ 60,00
+* Camarão VG á Provençal com arroz de jasmim e crispy de alho poró- R$ 82,00
 
 **Sugestões do Chef**
 
-* Mignon ao molho de tamarindo com vol au vent de gorgonzola - R$ 62,00
-* Linguado ao molho de maracujá com arroz integral, passas e castanhas - R$ 59,00
+* Cherne ao vinagrete de banana da terra com purê de raizes - R$ 72,00
+* Escalope de mignon ao molho Madeira com paglia e fieno ao alho e óleo - R$ 56,00
+
+  **Sugestão de verão**
+* Arroz 7 cereais com frango desfiado, cogumelos, castanhas e ervas frescas- R$ 27,00
 
 **Executiva**
 
-* Costela desfiada com lentilha, pimenta biquinho, cebola roxa e cubinhos de manga - R$ 32,00
+* Galeto assado à Campanha com batata portuguesa e farofa de ovos -R$ 32,00
 
 **Vegetariana**
 
-* Estrogonofe de palmito com arroz branco e batata palha- R$ 32,00
+* Falafel com babaganoush e salada verde- R$ 22,00
 
 **Sobremesa**
 
-* Torta de chocolate branco, ao leite e amargo com calda de cupuaçu - R$ 18,00
+* Biscoito amanteigado com sorvete de milho e calda de coco queimada - R$ 12,00
