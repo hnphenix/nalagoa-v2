@@ -1,26 +1,26 @@
 ---
-title: 04 de março a 17 de março de 2021
+title: 18 a 31 de março de 2021
 ---
 **Sugestão Especial** 
 
-* Camarão VG á Provençal com arroz de jasmim e crispy de alho poró- R$ 82,00
+* Bacalhau ao Brás - R$ 65,00
 
 **Sugestões do Chef**
 
-* Cherne ao vinagrete de banana da terra com purê de raizes - R$ 72,00
-* Escalope de mignon ao molho Madeira com paglia e fieno ao alho e óleo - R$ 56,00
+* Linguado ao mº de tangerina, couscous marroquino, legumes grelhados e castanhas - R$ 56,00
+* Tornedor de mignon ao mº de mostarda rústica, batata rostie e cebolas caramelizadas- R$ 59,00
 
   **Sugestão de verão**
-* Arroz 7 cereais com frango desfiado, cogumelos, castanhas e ervas frescas- R$ 27,00
+* Salada de peito de peru, abacaxi, aipo e milho com iogurte natural e palha de baroa- R$ 30,00
 
 **Executiva**
 
-* Galeto assado à Campanha com batata portuguesa e farofa de ovos -R$ 32,00
+* Rabada desfiada com polenta e agrião -R$ 30,00
 
 **Vegetariana**
 
-* Falafel com babaganoush e salada verde- R$ 22,00
+* Berinjela à parmegiana com purê de batatas- R$ 28,00
 
 **Sobremesa**
 
-* Biscoito amanteigado com sorvete de milho e calda de coco queimada - R$ 12,00
+* Torta floresta negra desconstruída - R$ 24,00
