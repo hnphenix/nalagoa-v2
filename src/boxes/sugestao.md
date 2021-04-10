@@ -1,6 +1,10 @@
 ---
 title: 09 a 14 de abril de 2021
 ---
+**Entradinha**
+
+* Antepasto de berinjela com pimentões e torradinhas - R$ 16,00
+
 **Sugestão Especial** 
 
 * Bacalhau ao Brás - R$ 65,00
