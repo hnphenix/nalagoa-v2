@@ -1,10 +1,6 @@
 ---
 title: 15 a 28 de abril de 2021
 ---
-**Entradinha**
-
-* Antepasto de berinjela com pimentões e torradinhas - R$ 16,00
-
 **Sugestão Especial** 
 
 * Fettuccine com frutos do mar (lula, polvo e camarão) - R$ 63,00
