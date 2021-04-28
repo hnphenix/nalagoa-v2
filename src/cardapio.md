@@ -150,8 +150,8 @@ Cesta de pães, patê do dia e manteiga de ervas - R$ 16,00
 
 * Amadeu Brut - R$ 94,00
 * Amadeu Rosé - R$ 94,00
-* Nero Celebration Brut - R$ 81,00
-* Nero Celebration Rosé - R$ 81,00
+* Nero Celebration Brut - R$ 86,00
+* Nero Celebration Rosé - R$ 86,00
 * Salton Brut - R$ 59,00
 
 *França*
