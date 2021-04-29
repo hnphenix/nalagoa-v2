@@ -3,21 +3,21 @@ title: 15 a 28 de abril de 2021
 ---
 **Sugestão Especial** 
 
-* Fettuccine com frutos do mar (lula, polvo e camarão) - R$ 63,00
+* Lombo de bacalhau regado com azeite extra-virgem, alho assado, batatas portuguesas e tomates confit - R$ 89,50
 
 **Sugestões do Chef**
 
-* Linguado em crosta de amendoim e manjericão com purê de cará e coco e emulsão de pimentão vermelho - R$ 59,00
-* Picanha grelhada com mº à campanha, batata frita e farofa de ovos - R$ 62,00
+* Saltimboca na manteiga de sálvia com palmito pupunha - R$ 68,00
+* Linguado com banana-da-terra ao molho de moqueca de camarão com arroz de coco - R$ 65,00
 
 **Executiva**
 
-* Carne seca acebolada, aipim frito, tutu e salada de couve - R$ 38,00
+* Picanha suína em seu molho com feijão tropeiro e torresmo crocante - R$ 39,00
 
 **Vegetariana**
 
-* Moqueca de palmito com banana-da-terra, farofa de dendê e arroz - R$ 36,00
+* Escondidinho de baroa com cogumelos, tomate seco e cream cheese - R$ 36,00
 
 **Sobremesa**
 
-* Torta de limão desconstruída - R$ 16,00
+* Pavlova de caqui - R$ 16,00
