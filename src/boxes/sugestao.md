@@ -1,22 +1,22 @@
 ---
-title: 13 a 26 de maio de 2021
+title: 27 de maio a 09 de junho de 2021
 ---
 **Sugestão Especial** 
 
-* Fettuccine ao limone com camarão e alho poró - R$ 72,00
+* Risoto de bacalhau com brócolis e tomatinhos assados - R$ 72,00
 
   **Sugestões do Chef**
-* Tilápia grelhada com vinagrete de caju, mousseline de baroa e espinafre sauté - R$ 51,00
-* Mignon grelhado ao mº de vinho do Porto com risoto de gorgonzola e peras grelhadas - R$ 68,00
+* Mignon grelhado ao mº de parmesão com batata noisette e tomate recheado com farofa panko -         R$ 65,00
+* Arroz de pato com linguiça paio - R$ 66,00
 
 **Executiva**
 
-* Rabada desfiada com polenta e agrião - R$ 37,00
+* Talharim à Parisiense - R$ 39,00
 
 **Vegetariana**
 
-* Quibe de abóbora com ricota, tabule e homus tahine - R$ 26,00
+* Rostie de baroa com queijo de cabra, ovo pochê ao aioli de espinafre e crispy de alho poró - R$ 42,00
 
 **Sobremesa**
 
-* Mousse de Ovomaltine com morangos e chantilly - R$ 18,00
+* Banana frita com canela e sorvete de creme - R$ 16,00
