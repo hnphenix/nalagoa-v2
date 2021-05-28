@@ -103,7 +103,7 @@ Cesta de pães, patê do dia e manteiga de ervas - R$ 16,00
 * Água s gás (330ml) - R$ 4,50
 * Água de coco (Coco Legal) - R$ 7,50
 * Mate Leão - R$ 7,00
-* Refrigerante (lata) - R$ 6,80
+* Refrigerante (lata) - R$ 7,00
 * Suco de laranja - R$ 8,50
 * Suco de frutas - R$ 8,50
 * Suco de uva - R$ 9,50
