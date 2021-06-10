@@ -1,22 +1,23 @@
 ---
-title: 27 de maio a 09 de junho de 2021
+title: 10 a 23 de junho de 2021
 ---
 **Sugestão Especial** 
 
-* Risoto de bacalhau com brócolis e tomatinhos assados - R$ 72,00
+* Bife de ancho com farofa de ovo, batata frita e mº à campanha - R$ 89,00
 
   **Sugestões do Chef**
-* Mignon grelhado ao mº de parmesão com batata noisette e tomate recheado com farofa panko -         R$ 65,00
-* Arroz de pato com linguiça paio - R$ 66,00
+* Mignon ao poivre com gratin de batata - R$ 68,00
+* Ravioli de camarão com catupiry, molho bisque e aneto - R$ 52,00
+* Arroz de polvo - R$ 62,00
 
 **Executiva**
 
-* Talharim à Parisiense - R$ 39,00
+* Carne assada em seu próprio molho com espaguete ao alho e óleo - R$ 39,00
 
 **Vegetariana**
 
-* Rostie de baroa com queijo de cabra, ovo pochê ao aioli de espinafre e crispy de alho poró - R$ 42,00
+* Estrogonofe de cogumelos com arroz branco e batata palha - R$ 36,00
 
 **Sobremesa**
 
-* Banana frita com canela e sorvete de creme - R$ 16,00
+* Pudim de tapioca com calda de coco queimado - R$ 15,00
