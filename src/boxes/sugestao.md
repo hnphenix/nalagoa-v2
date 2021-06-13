@@ -5,7 +5,7 @@ title: 10 a 23 de junho de 2021
 
 **Entrada**
 
-* Salmão gravlax com sour cream e blinis de baroa - R$80,00
+* Salmão gravlax com sour cream e blinis de baroa - R$60,00
 * Burrata, rúcula, tomatinhos assados, pesto e focaccias tostadas - R$48,00
 
 **Prato Principal**
