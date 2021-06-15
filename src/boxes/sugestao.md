@@ -10,7 +10,6 @@ title: 10 a 23 de junho de 2021
 
 **Prato Principal**
 
-* Cavaquinhas grelhadas com molho bisque, fettucine de pupunha e pimenta biquinho - R$80,00
 * Magret de pato com molho de laranja e purê de baroa - R$62,00
 * Bife de ancho com molho roti e aligot - R$73,00
 
@@ -19,8 +18,6 @@ title: 10 a 23 de junho de 2021
 * Trilogia de chocolate - R$20,00
 
    (Mousse de chocolate branco, gateau de chocolate meio amargo e sorvete de chocolate)
-
-
 
   **Sugestão Especial**
 * Bife de ancho com farofa de ovo, batata frita e mº à campanha - R$ 89,00
