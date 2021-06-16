@@ -8,18 +8,6 @@ collections:
   - name: "paginas"
     label: "Páginas"
     files:
-      - label: "Sugestão"
-        name: "sugestão"
-        file: "src/boxes/sugestao.md"
-        fields:
-          - { label: "Título", name: "title", widget: "string" }
-          - { label: "Corpo", name: "body", widget: "markdown" }
-      - label: "Cardápio"
-        name: "cardapio"
-        file: "src/cardapio.md"
-        fields:
-          - { label: "Título", name: "title", widget: "string" }
-          - { label: "Corpo", name: "body", widget: "markdown" }
       - label: "Cardápio Bar da Piscina"
         name: "cardapio-bar-piscina"
         file: "src/cardapio-bar-piscina.md"

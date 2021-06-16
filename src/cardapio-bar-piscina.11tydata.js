@@ -3,5 +3,9 @@ module.exports = {
 		permalink: (data) =>
 			`${data.slug ? data.slug : "{{page.fileSlug}}"}.html`,
 	},
-    layout: "menu-special.njk"
+    layout: "menu-special.njk",
+	eleventyNavigation: {
+        key: "Cardápios",
+        order: 3
+    }
 };
