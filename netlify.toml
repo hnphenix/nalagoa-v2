@@ -1,7 +1,3 @@
 [[redirects]]
-  from = "/cardapio.php"
-  to = "/cardapio.html"
-
-[[redirects]]
   from = "/cardapio-bar-piscina.php"
   to = "/cardapio-bar-piscina.html"
