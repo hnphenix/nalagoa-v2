@@ -247,36 +247,29 @@ title: Cardápios
 
 *Brasil*
 
-* Amadeu Brut - R$ 94,00
-* Amadeu Rosé - R$ 94,00
-* Nero Celebration Brut - R$ 81,00
-* Nero Celebration Rosé - R$ 81,00
+* Amadeu Brut - R$ 92,00
+* Amadeu Rosé - R$ 92,00
+* Nero Celebration Brut - R$ 89,00
+* Nero Celebration Rosé - R$ 89,00
 * Salton Brut - R$ 59,00
 
-*França*
-
-* Maison castel - R$ 99,00
-* Veuve Ambal - R$ 106,00
-
 **VINHO BRANCO**
+
+*Brasil*
+
+* Salton Paradoxo Chardonnay - R$ 69,00 
 
 *Chile*
 
 * La Guarda Sauvignon Blanc - R$ 82,00
 * Carmem Sauvignon Blanc - R$ 114,00
 
-*África do Sul*
-
-* Kleinkloof Chenin blanc - R$ 86,00
-
 *Portugal*
 
-* Guigas Branco - Quinta da Lixa (Região: Vinho verde) - R$ 76,00
-* Ares de Medeiros - R$ 85,00
-* Lagares de Penalva - R$ 94,00
-* Quinta da Aveleda - R$ 105,00
+* Ares de Medeiros - R$ 92,00
+* Guigas Branco - Quinta da Lixa (Região: Vinho verde) - R$ 78,00
+* Pacheca - Douro - R$ 98,00
 * Morgado da Vila - Quinta da Lixa (Alvarinho, Loureiro e Trajadura) - R$ 114,00
-* Monte São Sebastião - R$ 175,00
 
 **VINHO ROSÉ**
 
@@ -286,16 +279,20 @@ title: Cardápios
 
 *Portugal*
 
-* Guigas Rosé - Quinta da Lixa (Região: Vinho verde) - R$ 76,00
+* Guigas Rosé - Quinta da Lixa (Região: Vinho verde) - R$ 78,00
 * Ares de Medeiros - R$ 92,00
-* Periquita - R$ 104,00
+* Periquita - R$ 82,00
+
+*França*
+
+* Georges Duboeuf - R$ 98,00
 
 **VINHO TINTO**
 
 *Argentina*
 
 * Trapiche Melodias Malbec - R$ 79,00
-* Alamos Malbec - R$ 126,00
+* Alamos Malbec - R$ 136,00
 
 *Chile*
 
@@ -304,39 +301,38 @@ title: Cardápios
 
 *Estados Unidos*
 
-* Robert Mondavi Cabernet Sauvgnon - R$ 113,00
+* Robert Mondavi Cabernet Sauvgnon - R$ 120,00
 
 *Africa do Sul*
 
-* Obikwa Pinotage - R$ 97,00
+* African Heritage - R$ 92,00
 
 *França*
 
-* Georges Duboeuf La Cuvee - R$ 95,00
+* Georges Duboeuf La Cuvee - R$ 98,00
 
 *Italia*
 
 * Caleo D'Abruzzo Moltepuciano - R$ 90,00
-* Primitivo Visconti Della Rocca - R$ 104,00
 
 *Portugal*
 
-* Ares de Medeiros - R$ 92,00
+* Ares de Medeiros - R$ 88,00
 * Periquita Reserva - R$ 115,00
-* Monte São Sebastião - R$ 175,00
+* Pacheca - R$ 98,00
 
 **TAMANHOS ESPECIAS**
 
-*Espumantes*
+*Vinho Branco*
 
-* Amadeu Brut (375m) - R$ 62,00
-* Salton Brut (375m) - R$ 42,00
+* Santa Helena chardonnay - R$ 46,00
+* Carmen sauvignon blanc - R$ 62,00
 
 *Vinho Tinto*
 
 * Trapiche Malbec (187 ml) - R$ 29,00
 * Trapiche Malbec (375 ml) - R$ 50,00
-* Alamos Malbec (375 ml) - R$ 77,00
-* Santa Helena Cabernet Sauvgnon (375 ml) - R$ 42,00
-* Santa Helena Carmenêre (375 ml) - R$ 42,00
-* Carmen Insigne Carmerêre (375 m) - R$ 55,00
+* Alamos Malbec (375 ml) - R$ 85,00
+* Santa Helena Cabernet Sauvgnon (375 ml) - R$ 46,00
+* Santa Helena Carmenêre (375 ml) - R$ 46,00
+* Carmen Insigne Carmerêre (375 m) - R$ 62,00
