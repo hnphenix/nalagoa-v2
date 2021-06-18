@@ -132,7 +132,7 @@ title: Cardápios
 * Pizza de goiabada com queijo - R$ 31,00
 
 **CARDÁPIO QUIOSQUE**
-{% headingId "cardapio-quiosque" %} Cadápio Quiosque {% endheadingId %}
+{% headingId "cardapio-quiosque" %} Cardápio Quiosque {% endheadingId %}
 
 **PARA COMEÇAR...**
 
