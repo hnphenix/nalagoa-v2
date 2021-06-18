@@ -102,6 +102,7 @@ title: Cardápios
 * CAIPIVODKA - R$ 20,00 / ABSOLUT - R$ 25,00
 
 **CAIPIRINHAS ESPECIAIS**
+
 * CAIPIRINHA R$ 17,50 / SALINAS R$ 18,50
 * CAIPIVODKA R$ 22,00 / ABSOLUT R$ 27,00
 * GIN TÔNICA IMPORTADA - R$ 29,00
@@ -232,14 +233,12 @@ title: Cardápios
 * LIMÃO COM ABACAXI E HORTELÃ
 * CAIPIRINHA R$ 17,50 / SALINAS R$ 18,50
 * CAIPIVODKA R$ 22,00 / ABSOLUT R$ 27,00
-
 * GIN TÔNICA IMPORTADA - R$ 29,00
-
 * ÁGUAS DE VERÃO: GIN IMPORTADO COM TÔNICA, CASCA DE LIMÃO SICILIANO E CASCA DE TANGERINA E ZIMBRO
 * GREEN GIN: GIN IMPORTADO COM TÔNICA, CHÁ VERDE, GENGIBRE E CASCA DE LIMÃO SICILIANO
 * TANGIN: GIN IMPORTADO COM TÔNICA, TANGERINA COM CASCA, ALECRIM E ZIMBRO
 * PINK TONIC: GIN IMPORTADO COM TÔNICA, CHÁ DE FRUTAS VERMELHAS, MORANGO FATIADO, MARACUJÁ E FOLHAS DE HORTELÃ
-- GIN TÔNICA: GIN IMPORTADO COM TÔNICA, LIMÃO E ZIMBRO
+* GIN TÔNICA: GIN IMPORTADO COM TÔNICA, LIMÃO E ZIMBRO
 
 {% headingId "carta-de-vinhos" %} Carta de Vinhos {% endheadingId %}
 
@@ -296,12 +295,12 @@ title: Cardápios
 
 *Chile*
 
-* Santa Helena reserva Cabernet Sauvgnon - R$ 87,00
-* La Guarda Cabernet Sauvgnon - R$ 82,00
+* Santa Helena reserva Cabernet Sauvignon - R$ 87,00
+* La Guarda Cabernet Sauvignon - R$ 82,00
 
 *Estados Unidos*
 
-* Robert Mondavi Cabernet Sauvgnon - R$ 120,00
+* Robert Mondavi Cabernet Sauvignon - R$ 120,00
 
 *Africa do Sul*
 
@@ -333,6 +332,6 @@ title: Cardápios
 * Trapiche Malbec (187 ml) - R$ 29,00
 * Trapiche Malbec (375 ml) - R$ 50,00
 * Alamos Malbec (375 ml) - R$ 85,00
-* Santa Helena Cabernet Sauvgnon (375 ml) - R$ 46,00
+* Santa Helena Cabernet Sauvignon (375 ml) - R$ 46,00
 * Santa Helena Carmenêre (375 ml) - R$ 46,00
 * Carmen Insigne Carmerêre (375 m) - R$ 62,00
