@@ -10,10 +10,8 @@ eleventyNavigation:
 
 **Endereço:** Av. Borges de Medeiros nº 2364 - Lagoa - Rio de Janeiro - RJ
 
-**Tel:** 21 2540-8150 (para eventos dentro do club)
-
-**Tel:** 21 2540-0396 (para eventos dentro do club)
+**Tel:** 21 2540-0396
 
 **Tel:** 21 3077-6000 - ramal 243 (restaurante)
 
-**Email:** [buffet@nalagoa.com.br](mailto:buffet@nalagoa.com.br)
+**Email:** [nalagoagastronomia@gmail.com](mailto:nalagoagastronomia@gmail.com)
