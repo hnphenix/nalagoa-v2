@@ -68,7 +68,7 @@ title: Cardápios
 
 * ÁGUA C/ GÁS - R$ 5,00
 * ÁGUA S GÁS - R$ 5,00
-* MATE LEÃO - R$  7,00
+* MATE LEÃO - R$  6,50
 * REFRIGERANTE (LATA) - R$ 6,80
 * ÁGUA DE COCO (COCO LEGAL) - R$ 8,00
 * LARANJA LEGAL - R$ 9,00
