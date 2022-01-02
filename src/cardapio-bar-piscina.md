@@ -150,7 +150,7 @@ title: Cardápios
 
 **ESPECIAIS QUIOSQUE**
 
-**Couvert especial (salame, azeitona temperada, pizza branca e grissini) - R$ 39,00**
+ **\    COUVERT ESPECIAL (salame, azeitona temperada, pizza branca e grissini) - R$ 39,00**
 
 * LINGUIÇA ATESANAL ACEBOLADA COM FRITAS - R$ 35,00
 * CARNE SECA ACEBOLADA COM AIPIM E QUEIJO COALHO - R$ 49,00
