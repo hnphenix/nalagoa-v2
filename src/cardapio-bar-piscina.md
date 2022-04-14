@@ -2,7 +2,7 @@
 title: Cardápios
 ---
 1. {% button "cardapio-bar-da-piscina" %} Cardápio Bar da Piscina {% endbutton %}
-   {% button "cardapio-quiosque" %} Cardápio Quiosque {% endbutton %}
+   {% button "cardapio-espardeque" %} Cardápio Espardeque {% endbutton %}
    {% button "carta-de-vinhos" %} Carta de Vinhos {% endbutton %}
 
 {% headingId "cardapio-bar-da-piscina" %} Cardápio Bar da Piscina {% endheadingId %}
@@ -132,8 +132,8 @@ title: Cardápios
 * MARGUERITA - R$ 34,00
 * CALABRESA - R$ 34,00
 
-**CARDÁPIO QUIOSQUE**
-{% headingId "cardapio-quiosque" %} Cardápio Quiosque {% endheadingId %}
+**CARDÁPIO ESPARDEQUE**
+{% headingId "cardapio-espardeque" %} Cardápio Espardeque {% endheadingId %}
 
 **PARA COMEÇAR...**
 

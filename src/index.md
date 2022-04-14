@@ -2,11 +2,11 @@
 layout: home.njk
 title: Home
 callToAction:
-    actionTitle: Veja o Cardápio do Bar da Piscina e Quiosque
+    actionTitle: Veja o Cardápio do Bar da Piscina e Espardeque
     action: Aqui
     actionLink: cardapio-bar-piscina.html
 callToAction2:
-    actionTitle: Bar da Piscina e Quiosque
+    actionTitle: Bar da Piscina e Espardeque
     action: Aqui
     actionLink: cardapio-bar-piscina.html
 callToAction3:
