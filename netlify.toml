@@ -3,6 +3,26 @@
   to = "/cardapio-bar-piscina.html"
 
 [[redirects]]
-  from = "/*.html"
+  from = "/index.html"
+  to = "/manutencao.html"
+  status = 200
+
+[[redirects]]
+  from = "/quem-somos.html"
+  to = "/manutencao.html"
+  status = 200
+
+[[redirects]]
+  from = "/cardapio-bar-piscina.html"
+  to = "/manutencao.html"
+  status = 200
+
+[[redirects]]
+  from = "/contato.html"
+  to = "/manutencao.html"
+  status = 200
+
+[[redirects]]
+  from = "/*"
   to = "/manutencao.html"
   status = 200
