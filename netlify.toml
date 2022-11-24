@@ -1,3 +1,7 @@
 [[redirects]]
   from = "/cardapio-bar-piscina.php"
   to = "/cardapio-bar-piscina.html"
+
+[[redirects]]
+  from = "/*"
+  to = "/manutencao.html"
