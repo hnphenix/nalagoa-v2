@@ -3,6 +3,6 @@
   to = "/cardapio-bar-piscina.html"
 
 [[redirects]]
-  from = "/"
+  from = "/**/*.html"
   to = "/manutencao.html"
   status = 200
